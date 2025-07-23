@@ -111,6 +111,8 @@ I’m a 🎮 Game‑Dev buff, 🤖 AI & Generative‑AI explorer, and 🔧 Data�
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
 </p>
 
+---
+
 ### 🙌 Let’s Connect & Collaborate
 I love open‑source, side‑projects, and crazy hackathons.  
 Drop me a message or open an issue—let’s build something epic! ⚡  
