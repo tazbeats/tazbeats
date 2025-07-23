@@ -20,7 +20,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a 🎮 Game‑Dev buff, 🤖 AI & Generative‑AI explorer, and 🔧 Data‑Engineering & Server‑Ops specialist. I bridge hardware and software—whether it’s soldering a board or training a neural net, I’m all in.
+I’m a 🎮 Game‑Dev buff, 🤖 AI & Generative‑AI explorer, and 🔧 Data Engineering & Server‑Ops specialist. I bridge hardware and software whether it’s soldering a board or training a neural net, I’m all in.
 
 ---
 
@@ -116,5 +116,5 @@ I’m a 🎮 Game‑Dev buff, 🤖 AI & Generative‑AI explorer, and 🔧 Data�
 ---
 
 ### 🙌 Let’s Connect & Collaborate
-I love open‑source, side‑projects, and crazy hackathons.  
-Drop me a message or open an issue—let’s build something epic! ⚡  
+I love open‑source, side projects, and crazy hackathons.  
+Drop me a message or open an issue let’s build something epic! ⚡  
