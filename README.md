@@ -26,8 +26,8 @@ I’m a 🎮 Game‑Dev buff, 🤖 AI & Generative‑AI explorer, and 🔧 Data�
 
 ### ⚡ What I’m Working On
 - **GenAI Experiments**: Crafting transformers & GANs for creative workflows  
-- **AI‑Powered Game Bots**: Building RL agents in Unity & Pygame to master classic games  
-- **Data Pipelines**: ETL magic with Python, Spark & cloud databases  
+- **AI‑Powered Game Bots**: Building RL agents in Unity, Unreal Engine 5, Godot & Pygame  
+- **Data Pipelines**: ETL magic with Python, Spark & cloud databases (Firebase, AWS)  
 - **Server Orchestration**: CI/CD, Docker/K8s clusters, performance tuning  
 
 ---
@@ -35,21 +35,27 @@ I’m a 🎮 Game‑Dev buff, 🤖 AI & Generative‑AI explorer, and 🔧 Data�
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pygame/pygame-original.svg" alt="Pygame" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"     alt="Python"      width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"          width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"   width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"             alt="React"        width="40" height="40"/>  
+  <img src="https://img.shields.io/badge/Pygame-0C2D48?style=flat-square&logo=python&logoColor=white"               alt="Pygame"       width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"               alt="Unity"        width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"               alt="Godot"        width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"           alt="PyTorch"      width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"     alt="TensorFlow"   width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"               alt="Flask"        width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"             alt="Docker"       width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"        alt="Kubernetes"   width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"               alt="Linux"        width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"               alt="MySQL"        width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"           alt="MongoDB"      width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"            alt="Firebase"     width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"               alt="Redis"        width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"                   alt="Git"          width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg"                   alt="AWS"          width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"           alt="Jupyter"      width="40" height="40"/>  
 </p>
 
 ---
