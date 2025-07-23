@@ -54,7 +54,7 @@ I’m a 🎮 Game‑Dev buff, 🤖 AI & Generative‑AI explorer, and 🔧 Data�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"            alt="Firebase"     width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"               alt="Redis"        width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"                   alt="Git"          width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"           alt="Jupyter"      width="40" height="40"/>  
 </p>
 
