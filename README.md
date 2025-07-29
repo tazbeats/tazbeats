@@ -1,4 +1,4 @@
-.<h1 align="center">Hi there, I’m Talha Zia 👋</h1>
+<h1 align="center">Hi there, I’m Talha Zia 👋</h1>
 <h3 align="center">A Tech Enthusiast & Full‑Stack Tinkerer</h3>
 
 <p align="center">
